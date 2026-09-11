@@ -1,5 +1,4 @@
-MARGA-DARSHAK
-AN AI-POWERED ROUTE SAFETY FOR NORTH EASTERN FRIEGHT.
+MARGA-DARSHAK ( AN AI-POWERED ROUTE SAFETY FOR NORTH EASTERN FRIEGHT. )
 
 ## Key Features
 * **GIS & Radar Tracking**: Live freight GPS, Open-Meteo weather telemetry, and RainViewer Doppler radar on an interactive Leaflet map.
