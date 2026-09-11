@@ -1,0 +1,8 @@
+{
+  "name": "Remix NER Logistics AI",
+  "description": "High-contrast logistics management and operations system with live GIS mapping, fleet tracking, AI route optimization, and alerts monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

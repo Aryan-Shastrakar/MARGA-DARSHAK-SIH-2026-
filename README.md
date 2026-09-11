@@ -1,23 +1,20 @@
-# MARGA-DARSHAK-SIH-2026-
-AN AI-POWERED ROUTE SAFETY FOR NORTHEASTERN FRIEGHT. 
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-## Key Features
-* **GIS & Radar Tracking**: Live freight GPS, Open-Meteo weather telemetry, and RainViewer Doppler radar on an interactive Leaflet map.
-* **AI Route Optimization**: Gemini 3.7 Flash computes safe dry bypass routes (e.g., Umkiang pass) based on live hazards and cargo urgency.
-* **Incident Reporting**: Crowd-sourced landslide and pass-blockage reporting with direct photo uploads and clearance tracking.
-* **Vehicle & Driver Telematics**: Real-time monitoring of truck ECU metrics (RPM, coolant, cargo status) and driver vitals.
+# Run and deploy your AI Studio app
 
-## Tech Stack
-* **Frontend**: React, Tailwind CSS, Leaflet.js
-* **Backend**: Node.js, Express.js
-* **AI Engine**: Google Gemini 3.7 Flash API
-* **Data Feeds**: Open-Meteo API, RainViewer Radar API
-* **Database**: SQLite / PostgreSQL
+This contains everything you need to run your app locally.
 
-## Quick Start
-```bash
-git clone [https://github.com/your-username/marga-darshak.git](https://github.com/your-username/marga-darshak.git)
-cd marga-darshak
-npm install
-# Set GEMINI_API_KEY in your .env file
-npm run dev
+View your app in AI Studio: https://ai.studio/apps/e43e52ed-f1d1-4ad0-b9ea-0a007686f9c6
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
