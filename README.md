@@ -20,3 +20,9 @@ cd marga-darshak
 npm install
 # Set GEMINI_API_KEY in your .env file
 npm run dev
+
+<img width="468" height="832" alt="WhatsApp Image 2026-09-02 at 9 32 23 PM" src="https://github.com/user-attachments/assets/18dc5d45-a5d6-4a81-94ad-24cfeaf868d7" />
+<img width="470" height="832" alt="WhatsApp Image 2026-09-02 at 9 32 24 PM" src="https://github.com/user-attachments/assets/a4dadd29-a9b9-4554-a671-91a59f00e5d7" />
+<img width="467" height="833" alt="WhatsApp Image 2026-09-02 at 9 32 24 PM (1)" src="https://github.com/user-attachments/assets/42204eed-55bd-49e8-a767-9ef0eecda51a" />
+<img width="465" height="828" alt="WhatsApp Image 2026-09-02 at 9 32 24 PM (2)" src="https://github.com/user-attachments/assets/931d7069-3856-486c-9812-05c7d59286ec" />
+<img width="470" height="831" alt="WhatsApp Image 2026-09-02 at 9 32 25 PM" src="https://github.com/user-attachments/assets/7c9eb767-7b5a-479a-be90-863690015654" />
