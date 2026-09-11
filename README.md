@@ -13,6 +13,15 @@ MARGA-DARSHAK ( AN AI-POWERED ROUTE SAFETY FOR NORTH EASTERN FRIEGHT. )
 * **Data Feeds**: Open-Meteo API, RainViewer Radar API
 * **Database**: SQLite / PostgreSQL
 
+DASHBOARD
+https://github.com/Aryan-Shastrakar/MARGA-DARSHAK-SIH-2062-/blob/f85d1df83657eb1a8b3a48accaa974ac85b57fd9/WhatsApp%20Image%202026-09-02%20at%209.32.25%20PM.jpeg
+
+ALERTS
+https://github.com/Aryan-Shastrakar/MARGA-DARSHAK-SIH-2062-/blob/f85d1df83657eb1a8b3a48accaa974ac85b57fd9/WhatsApp%20Image%202026-09-02%20at%209.32.23%20PM.jpeg
+
+LIVE MAP
+https://github.com/Aryan-Shastrakar/MARGA-DARSHAK-SIH-2062-/blob/f85d1df83657eb1a8b3a48accaa974ac85b57fd9/WhatsApp%20Image%202026-09-02%20at%209.32.24%20PM%20(2).jpeg
+
 ## Quick Start
 ```bash
 git clone [https://github.com/your-username/marga-darshak.git](https://github.com/your-username/marga-darshak.git)
